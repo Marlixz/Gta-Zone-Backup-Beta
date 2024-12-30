@@ -1,9 +1,9 @@
 # Gta-Zone-Backup-Beta
 
-> .[!TIP]
+> .[!TIP].
 > Esta GameMode no fue Terminada, Y Quedo en su Base Beta, Pero contiene lo Necesario para Iniciar un Proyecto de 0
 
-> .[!IMPORTANT]
+> -[!IMPORTANT]-
 > Principalmente la GameMode se Estuvo Pensaba para SqLite, Ya cualquiera Que tenga Conocimientos de Sql Puede Pasarlo a una DataBase en Php
 
 > .[!CAUTION]
